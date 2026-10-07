@@ -1,4 +1,4 @@
-# Kes siin töötab?
+## Kes siin töötab?
 
-*Nimi: Tristan Metspalu
-*Projektigrupp: vurts
+- Nimi: Tristan Metspalu
+- Projektigrupp: vurts
