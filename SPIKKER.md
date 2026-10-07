@@ -1,12 +1,10 @@
 # Git – spikker
 
-> **Kui seda pole GitHubis, siis seda pole olemas.**
-
-## Üks kord arvuti kohta (seadistus)
+## Git - commands
 
 ```
-git config --global user.name "Eesnimi Perenimi"
-git config --global user.email "sinu-github-email@näide.ee"
+git add //git lisab muudatuse
+git 
 git config --global core.editor "code --wait"
 git config --global pull.rebase false
 ```
