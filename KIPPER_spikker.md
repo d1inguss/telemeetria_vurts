@@ -2,24 +2,6 @@
 
 ## Git - commands
 
-```
-git add //git lisab muudatuse
-git 
-git config --global core.editor "code --wait"
-git config --global pull.rebase false
-```
-
-## Üks kord projekti kohta (kloonimine)
-
-```
-cd ~/Documents
-git clone https://github.com/KASUTAJA/REPO.git
-cd REPO
-code -r .
-```
-
-## Iga tööpäev
-
 | Millal | Käsk | Mida teeb |
 |---|---|---|
 | **Alguses** | `git pull` | toob tiimi uusimad muudatused |
