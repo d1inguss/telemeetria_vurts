@@ -1,6 +1,6 @@
 ## MATIK Telemeetria-vurts
 
-See on tiimi telemeetria repo
+Siin on tiimi telemeetria repo
 
 ## Kes siin töötab?
 
